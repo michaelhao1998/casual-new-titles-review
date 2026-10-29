@@ -1,4 +1,4 @@
-# 休闲新品评审 · Solitaire Flow × fill it up
+# 休闲新品评审 · fill it up × Solitaire Flow × Claw Sort
 
 评审展示页（单文件，内嵌两款可玩原型）。在线：https://michaelhao1998.github.io/casual-new-titles-review/
 
